@@ -1,7 +1,6 @@
-
 import telebot
 
-token = "5320784784:AAFoyBY6yNbSHKrdbQcemLTrZfzYIAe7F3M"
+token = ""
 bot = telebot.TeleBot(token)  # найти бота в телеграмме s21admbot
 
 
